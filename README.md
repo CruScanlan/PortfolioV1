@@ -1,2 +1,2 @@
 # PortfolioV1
-A basic Portfolio site until I decide to make something better.
+A basic Portfolio site that can be found at.
